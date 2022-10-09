@@ -1,4 +1,5 @@
 #opencv模板匹配----多目标匹配
+666
 import cv2
 import numpy
 #读取目标图片

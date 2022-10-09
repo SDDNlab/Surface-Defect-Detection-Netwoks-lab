@@ -2,11 +2,12 @@
 
 ## Development environment configuration
 
-`pip install numpy==1.15.3`
-`pip install matplotlib==3.0.1`
-`pip install opencv-python==3.4.2.16`
-`pip install opencv-contrib-python==3.4.2.16`
-
+```python
+pip install numpy==1.15.3
+pip install matplotlib==3.0.1
+pip install opencv-python==3.4.2.16
+pip install opencv-contrib-python==3.4.2.16
+```
 
 
 ## Traditional detection methods

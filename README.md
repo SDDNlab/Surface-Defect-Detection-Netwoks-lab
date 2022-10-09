@@ -2,6 +2,7 @@
 
 ## Development environment configuration
 
+------
 ```python
 pip install numpy==1.15.3
 pip install matplotlib==3.0.1
